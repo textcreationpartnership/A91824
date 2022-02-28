@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings noble entertainment at York with the Lord Maior of York his worthy speech to the King. As also the manner how the aldermen, sheriffes, citizens and sundry other gentlemen congratulated His Maiesty to York. Likewise how triumphantly hee was entertained with many rich presents, and now they conducted His Maiesty to his castle. Sent from York by Sir Nathanaael [sic] Rigby to a merchant in London. March 18. 1641.</title>
+            <author>Rigby, Nathaniel, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91824</idno>
+            <idno type="STC">Wing R1474</idno>
+            <idno type="STC">Thomason E141_8</idno>
+            <idno type="STC">ESTC R13234</idno>
+            <idno type="EEBO-CITATION">99859441</idno>
+            <idno type="PROQUEST">99859441</idno>
+            <idno type="VID">111524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111524)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E141[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings noble entertainment at York with the Lord Maior of York his worthy speech to the King. As also the manner how the aldermen, sheriffes, citizens and sundry other gentlemen congratulated His Maiesty to York. Likewise how triumphantly hee was entertained with many rich presents, and now they conducted His Maiesty to his castle. Sent from York by Sir Nathanaael [sic] Rigby to a merchant in London. March 18. 1641.</title>
+                  <author>Rigby, Nathaniel, Sir.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Williams,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111524:1" rendition="simple:additions"/>
+            <p>THE KINGS Noble entertainment AT YORK WITH The Lord Mai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r of YORK his worthy Speech to the King.</p>
+            <p>As alſo the manner how the Aldermen, Sheriffes, Citizens, and ſundry other Gentlemen congratulated his Maieſty to <hi>York.</hi>
+            </p>
+            <p>Likewiſe how triumphantly hee was entertained with many rich Preſents, and now they con<g ref="char:EOLhyphen"/>ducted his Maieſty to his Caſtle.</p>
+            <p>Sent from York by Sir <hi>Nathanaael Rigby</hi> to a Mer<g ref="char:EOLhyphen"/>chant in London. March 18. 1641.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Williams,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111524:2"/>
+            <pb facs="tcp:111524:2"/>
+            <head>THE Kings Noble Entertainment At Yorke.</head>
+            <p>THE Kings Moſt Excellent Maieſtie, being variouſly diſcontented, partly at the ſeditious and prepoſterous Diſtra<g ref="char:EOLhyphen"/>ction in this Kingdome, partly at the Rebelli<g ref="char:EOLhyphen"/>ous inſurrection in <hi>Ireland,</hi> and the barbarous continuation of the ſame, none, or very little means of redreſſe being uſed, and partly (which I conceive was the principall cauſe that indu<g ref="char:EOLhyphen"/>ced him) at the dangerous imputation of high affaires reflected on his Maieſtie, was deeply wounded hereupon with griefe and vexation: all which loaded his Princely minde with ſuch a ponderous burden of ſorrow, that he reſolved himſelfe to live abſented from his Parliament. And in this remote diſtance from them, recei<g ref="char:EOLhyphen"/>ving divers times Meſſages from both Houſes,
+<pb facs="tcp:111524:3"/>
+highly touching his Maieſty; it did rather re<g ref="char:EOLhyphen"/>double and ingeminate his former grieſe, then leſſen or extenuate it. Wherefore being at New-Market, hee recreated himſelfe often<g ref="char:EOLhyphen"/>times, and did ſeeme reſpectively to entertain ſome mirth and alacr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty in his former deie<g ref="char:EOLhyphen"/>cted minde; till afterwards receiving a Decla<g ref="char:EOLhyphen"/>ration from both Houſes of Parliament, hee was more vexed then before. Whereupon hee left New-market, and went next to Cam<g ref="char:EOLhyphen"/>bridge: from thence to Huntington, and there continuing a while, hee afterwards confirmed his reſolution to ſet forward for Yorke. And the Lord Maior receiving intelligence before of his Maieſties intent, with the Al<g ref="char:EOLhyphen"/>dermen, Citizens, and other Gentlemen, hee went out to meet, &amp; congratulate his Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty to Yorke; where comming before his ſacred perſon, hee with all humility, and ardency of affection, pronounced a Speech unto his Ma<g ref="char:EOLhyphen"/>ieſty, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the tenor of theſe words following;</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Dread soveraigne,</salute>
+                        </opener>
+                        <p>WEE are now no leſſe joyfull to at<g ref="char:EOLhyphen"/>taine the happy aſpect of your Ma<g ref="char:EOLhyphen"/>ieſty, then before do eſull and deie<g ref="char:EOLhyphen"/>cted, as well ſympathizing with your owne griefe, as being deprived of your ſacred per<g ref="char:EOLhyphen"/>ſon: for ſince your laſt return from Scotland, we required ſo generall a triumph and alacrity at your then ſecure and proſperous return, that now likewiſe in commemoration of the ſame,
+<pb facs="tcp:111524:3"/>
+we preſent our loyalty and ſub niſſive obedi<g ref="char:EOLhyphen"/>ence to your Maieſty. Tis true, you came then from a Parliament, and ſo you doe now like<g ref="char:EOLhyphen"/>wiſe; only the difference lies in this, that as you c<gap reason="illegible" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>me t<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>en with t<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e li<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e branch of peace, ſo now you are burdened with the feares and jealouſies of your people: then with the pub<g ref="char:EOLhyphen"/>lick aſſent, now with the diſſent: then with the peacefull concluſion of all thing, now in the tumultucus diſtraction of all: then your ſub<g ref="char:EOLhyphen"/>jects were joyfull for your preferce, now they are traduced with paſſion for your abſence.</p>
+                        <p>Dread Soveraigne, if my too audacious tongue doth treſpaſſe on your Maieſty, I humbly beſeech your favourable abſolution for the ſame: neither can you impute it as a preſumption in me, ſo much a carefull ſolici<g ref="char:EOLhyphen"/>tation both for your owne ſecurity, and the better ſatisfaction of your ſubjects: for form the pious ſhade of your Royall Crowne, wee expect to reap nothing but the delectable fruits of Iuſtice and Equity: of Iuſtice, in pro<g ref="char:EOLhyphen"/>recting none from their deſerved cenſure, and condigne puniſhment for their delinquencie: Of equity, in ſubſcribing and condeſcending to what your Parliament ſhall conceive to be juſt, equall, and expedient for the publicke ſafety of your Kingdomes. Thus (my Royall Liege) you will linke and tye the affections of your people ſo faſt and ſo unitely to your Maieſties favourable reflection, that nothing
+<pb facs="tcp:111524:4"/>
+ſhall ſeparate them in maintaining your Pre<g ref="char:EOLhyphen"/>rogative from detraction of any, or your per<g ref="char:EOLhyphen"/>ſon from any violation. But I thinke to ad<g ref="char:EOLhyphen"/>moniſh you of this, were to lead the Sune to goe its daily courſe, the Spheres to revolve themſelves annually, or the Moone to keepe heer Monthly change: For you are ſo well read in the Schoole of Iuſtice, that nothing (wee hope) can diſtill from your pure minde. Howſoever (moſt gracious Sove<g ref="char:EOLhyphen"/>raigne) remember your Parliament, forget not them that alwayes remember you: con<g ref="char:EOLhyphen"/>curre with them in their ſedulous conſultati<g ref="char:EOLhyphen"/>tions, that ſo by that meanes your Imperiall dignity may be the more advanced, and your Kingdomes ſooner eaſed of their grievances and troubles. Your Palace at Weſtminſter waits in expectation of your preſence, it longs to enjoy your ſacred ſelfe, it expands its gates, as if it expects your returne each minut: let it not ſeeme deſolate, but rather honour it with your preſence, that ſo it may ſeeme a Para<g ref="char:EOLhyphen"/>diſe.</p>
+                        <p>Now (my Liege) grant us your element pa<g ref="char:EOLhyphen"/>tience a while, that we may performe our own particular duties unto yon. Wee are come to preſent the humble tender of our loyalty and obedience unto you, laying downe our lives, fortunes and eſtates before you, being pi<g ref="char:EOLhyphen"/>ouſly reſolved both to live and dye at your gra<g ref="char:EOLhyphen"/>cious
+<pb facs="tcp:111524:4"/>
+feet. And in preſentation of our humili<g ref="char:EOLhyphen"/>ty, wee are ready to expoſe our live (as ſacrifi<g ref="char:EOLhyphen"/>ces) to your Maieſty,. Accept then (wee be<g ref="char:EOLhyphen"/>ſeech you) what the indigencie of our Coun<g ref="char:EOLhyphen"/>trey affoords, which ſhall be the onely ambi<g ref="char:EOLhyphen"/>tion of your obſequious and loyall ſubjects, to obtaine your Maieſties gracious acceptation of their humble obedience.</p>
+                        <p>The Lord Maiors Speech being ended, his Maieſtie graciouſly thanked him for the ſame, then the Aldermen, Sheriffe, Citizens, and a moltitude of other Gentlemen ſubmiſſively congratulated his Maieſte in a mutull viciſſi<g ref="char:EOLhyphen"/>tude of humble ſalutations: the Streets were embroidered with people on both ſides, each one triumphing in a joyfull acclamation, ha<g ref="char:EOLhyphen"/>ving the happineſſe to behold his Maieſtie, cry<g ref="char:EOLhyphen"/>ing mutually, GOD <hi>bleſſe King</hi> CHARES: in the midſt of the City, they preſented two Golden Flaggons, and two golden Cups, being entertained with great triumph: then they conducted his Maieſtie to his Caſtle, where he continueth: but it is ſuppoſed that his Maieſtie ſuddainly intends to goe to <hi>Hull.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
